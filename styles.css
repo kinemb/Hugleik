@@ -14,7 +14,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.8rem;
+  font-size: 2rem;
     color: #417D7A;
     font-weight: normal;
     padding-bottom: 10px;
@@ -136,12 +136,12 @@ margin: 40px auto 60px;
 }
 
 .btn {
-  background: #11cdd4;
-  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
-  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
-  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  background: #417D7A;
+  background-image: -webkit-linear-gradient(top, #417D7A, #417D7A);
+  background-image: -moz-linear-gradient(top, #417D7A, #417D7A);
+  background-image: -ms-linear-gradient(top, #417D7A, #417D7A);
+  background-image: -o-linear-gradient(top, #417D7A, #417D7A);
+  background-image: linear-gradient(to bottom, #417D7A, #417D7A);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
@@ -153,12 +153,12 @@ margin: 40px auto 60px;
 }
 
 .btn:hover {
-  background: #30e3cb;
-  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  background: #417D7A;
+  background-image: -webkit-linear-gradient(top, #417D7A, #417D7A);
+  background-image: -moz-linear-gradient(top, #417D7A, #417D7A);
+  background-image: -ms-linear-gradient(top, #417D7A, #417D7A);
+  background-image: -o-linear-gradient(top, #417D7A, #417D7A);
+  background-image: linear-gradient(to bottom, #417D7A, #417D7A);
   text-decoration: none;
 }
 
@@ -186,7 +186,7 @@ margin: 40px auto 60px;
 
 .circular-sb {
   width: 250px;
-  border: 5px solid #00bfb6;
+  border: 5px solid #417D7A;
   padding: 80px 0px;
   margin: 30px auto;
   border-radius: 50%;
@@ -196,12 +196,14 @@ margin: 40px auto 60px;
   font-family: 'Dosis', sans-serif;
   line-height: 2;
   left: 300px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   position: relative;
-  color: #00bfb6;
+  color: #417D7A;
 }
 
 .circle1 {
-  border: 5px solid #00bfb6;
+  border: 5px solid #417D7A;
   position: absolute;
   width: 25px;
   padding: 20px;
@@ -218,11 +220,11 @@ margin: 40px auto 60px;
   border-radius: 50%;
   right: 0px;
   bottom: 0px;
-  background: #fff;
+  background: #EAF6F6;
 }
 
 .circle2 {
-  border: 5px solid #00bfb6;
+  border: 5px solid #417D7A;
   position: absolute;
   width: 5px;
   padding: 10px 15px;
